@@ -38,7 +38,3 @@ _Extra features when a component is clicked:_
 
 
  
-
-  
-
-

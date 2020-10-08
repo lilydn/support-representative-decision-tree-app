@@ -4,6 +4,10 @@
   width: 98vw;
 }
 
+/* .react-flow__node, .react-flow__nodes {
+  transform-origin: 0; 
+} */
+
 /* .react-flow__renderer {
   display: flex;
   justify-content: center;

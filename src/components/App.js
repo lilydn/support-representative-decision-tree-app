@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import DecisionTree from './DecisionTree';
+import NodeElements from './NodeElements';
 
 function App() {
   return (
     <div className="App">
-     <DecisionTree />
+     <NodeElements />
     </div>
   );
 }
