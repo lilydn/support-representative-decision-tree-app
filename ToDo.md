@@ -6,7 +6,7 @@
 
 - Create a reusable component to represent an option of the decision tree. The component will recieve as props it's title and it's sub-tree. 
 
-- Use an external library to render components as a tree chart (learn about gojs or d3)
+- Use an external library to render components as a tree chart (react-flow-renderer)
 
 - When a component is clicked: 
   - Expand it's sub-tree whole level (render components to the screen) 
