@@ -1,4 +1,4 @@
-## Technical Support Representative Decision-Tree App ##
+## Technical Support Representative Decision-Tree App Overview ##
 
 - App initialization: only the top level of the decision tree is displayed.
 
